@@ -5,11 +5,11 @@ Advanced Multimodal AI Generation System: FLUX.1-dev with Multi-Keyframe Motion 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5.0-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/FLUX-MultiKeyframe-SVD/blob/main/comp_vis_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarang-More/FLUX-MultiKeyframe-SVD/blob/main/comp_vis_final.ipynb)
 
 > **State-of-the-art text-to-image and text-to-video generation system combining FLUX.1-dev with novel multi-keyframe motion synthesis**
 
-![Demo](assets/demo_screenshot.png)
+![Demo](assets/examples/demo_astronaut.png)
 
 ## 📖 Overview
 
@@ -45,7 +45,7 @@ The easiest way to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/FLUX-MultiKeyframe-SVD.git
+git clone https://github.com/Sarang-More/FLUX-MultiKeyframe-SVD.git
 cd FLUX-MultiKeyframe-SVD
 
 # Install dependencies
@@ -191,7 +191,7 @@ We reduced VRAM requirements from 38GB → 12GB through:
 
 ## 📚 Documentation
 
-- [Full Project Report](docs/Comp_vision_final_project.pdf) - Comprehensive technical documentation
+- [Full Project Report](docs/CV_final_report.pdf) - Comprehensive technical documentation
 - [Architecture Diagram](docs/architecture_diagram.png) - Visual system overview
 - [Troubleshooting Guide](#troubleshooting) - Common issues and solutions
 
@@ -242,7 +242,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 - **Sarang More**: smore@iu.edu
 - **Yash Patel**: yashpate@iu.edu
-- **Project Link**: https://github.com/YOUR_USERNAME/FLUX-MultiKeyframe-SVD
+- **Project Link**: https://github.com/Sarang-More/FLUX-MultiKeyframe-SVD
 
 ## 🔮 Future Work
 
@@ -273,7 +273,7 @@ If you use this work in your research, please cite:
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/FLUX-MultiKeyframe-SVD}}
+  howpublished = {\url{https://github.com/Sarang-More/FLUX-MultiKeyframe-SVD}}
 }
 ```
 
