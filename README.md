@@ -11,6 +11,8 @@ Advanced Multimodal AI Generation System: FLUX.1-dev with Multi-Keyframe Motion 
 
 ![Demo](assets/examples/demo_astronaut.png)
 
+This is a sample image.
+
 ## 📖 Overview
 
 This project presents a comprehensive multimodal generation system that produces high-quality images and videos from natural language descriptions. Unlike conventional image-to-video systems that produce only camera motion, our architecture generates multiple semantically-coherent keyframes representing distinct motion stages and interpolates between them to create **realistic object-level animations**.
