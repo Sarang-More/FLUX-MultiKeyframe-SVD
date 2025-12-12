@@ -11,7 +11,7 @@ Advanced Multimodal AI Generation System: FLUX.1-dev with Multi-Keyframe Motion 
 
 ![Demo](assets/examples/demo_astronaut.png)
 
-This is a sample image. Click for more [FLUX-MultiKeyframe-SVD/assets/examples/)
+This is a sample image. [Click here to see more examples](assets/examples)
 
 ## 📖 Overview
 
